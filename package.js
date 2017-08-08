@@ -1,6 +1,9 @@
 Package.describe({
-  summary: "Generates the boilerplate html from program's manifest",
-  version: '1.1.2'
+    name: "orikami:boilerplate-generator",
+    version: "0.0.1",
+    summary: "boilerplate-generator package",
+    git: "https://github.com/dreamyourweb/boilerplate-generator.git",
+    documentation: "README.md"
 });
 
 Package.onUse(api => {
